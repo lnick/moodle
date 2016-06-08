@@ -16,5 +16,5 @@ minutes):
 4. Set up a cron task to call the file admin/cron.php every minute.
 
 For more information, see <https://docs.moodle.org/en/Installing_Moodle>.
-
+!
 Good luck and have fun!
